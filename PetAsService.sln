@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetAsService", "PetAsService.csproj", "{76FD485D-0B12-49FC-BE48-8BE3E67BBCB1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorPet", "..\InstaladorPet\InstaladorPet.vdproj", "{DA6FB626-33B8-411E-A834-DCA59B50BB90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FD485D-0B12-49FC-BE48-8BE3E67BBCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FD485D-0B12-49FC-BE48-8BE3E67BBCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FD485D-0B12-49FC-BE48-8BE3E67BBCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FD485D-0B12-49FC-BE48-8BE3E67BBCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6FB626-33B8-411E-A834-DCA59B50BB90}.Debug|Any CPU.ActiveCfg = Debug
+		{DA6FB626-33B8-411E-A834-DCA59B50BB90}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B5A81DA-956C-4992-A80D-23C988639904}
+	EndGlobalSection
+EndGlobal
